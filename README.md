@@ -32,4 +32,14 @@ Data Analyst | Power BI Developer | Tableau Specialist | Excel Pro
 #### 📊 Dashboard 5 – Credit Card Customer Report
 ![Dashboard 4](https://github.com/tembhurkarshweta/tembhurkarshweta/blob/main/credit_card_customer_report.gif?raw=true)
 
+---
+
+#### 📊 Dashboard 6 – Sales Report
+![Dashboard 4](https://github.com/tembhurkarshweta/tembhurkarshweta/blob/main/salesStore.pdf?raw=true)
+
+---
+
+#### 📊 Dashboard 7 – Healthcare Report
+![Dashboard 4](https://github.com/tembhurkarshweta/tembhurkarshweta/blob/main/HealthcareProject.pdf?raw=true)
+
 
