@@ -34,8 +34,8 @@ Data Analyst | Power BI Developer | Tableau Specialist | Excel Pro
 
 ---
 
-#### 📊 Dashboard 6 – Sales Report
-[![Dashboard 6](https://github.com/tembhurkarshweta/tembhurkarshweta/blob/main/salesStore.pdf?raw=true)](https://github.com/tembhurkarshweta/tembhurkarshweta/blob/main/salesStore.pdf?raw=true)
+#### 📊 Dashboard 6 – Health Care Project Report
+[📄 View Health Care Project Report (PDF)](https://github.com/tembhurkarshweta/tembhurkarshweta/blob/main/HealthcareProject.pdf?raw=true)
 
 ---
 
